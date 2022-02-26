@@ -11,3 +11,8 @@ make dev
 ```shell
 make prod
 ```
+
+#### Stop and remove containers and networks
+```shell
+make down
+```
