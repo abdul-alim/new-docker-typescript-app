@@ -1,0 +1,1 @@
+console.log("Typescript and docker base setup :)");

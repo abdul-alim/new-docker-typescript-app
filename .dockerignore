@@ -1,0 +1,6 @@
+*.yml
+*.yaml
+dist
+Dockerfile
+node_modules
+Makefile
